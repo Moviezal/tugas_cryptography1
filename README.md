@@ -146,8 +146,8 @@ agar hasilnya bisa langsung dicocokkan dengan materi kuliah.
 
 ## 👤 Identitas Mahasiswa
 
-- **Nama:** [Nama Lengkap Anda]
-- **NIM:** [NIM Anda]
+- **Nama:** Muhammad Hafizh Alfauzi
+- **NIM:** 312410501
 - **Mata Kuliah:** Kriptografi
 - **Program Studi:** Teknik Informatika
-- **Referensi:** Rinaldi Munir, *Bahan Kuliah IF4020 Kriptografi — 02 Ragam Cipher Klasik (Bagian 1)*, STEI ITB, 2025.
+- **Referensi:** 02 Ragam Cipher Klasik
