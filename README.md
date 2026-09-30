@@ -1,8 +1,7 @@
 # Tugas Kriptografi — Implementasi Cipher Klasik (Python)
 
 Repositori ini berisi implementasi **3 algoritma Cipher Klasik** dalam bahasa **Python 3**,
-dikerjakan sebagai tugas mata kuliah **Kriptografi**. Implementasi disesuaikan dengan bahan
-kuliah *02–Ragam Cipher Klasik (Bagian 1)* oleh **Dr. Ir. Rinaldi Munir, M.T.** (STEI ITB, 2025).
+dikerjakan sebagai tugas mata kuliah **Kriptografi**. 
 
 > Kriptografi klasik adalah kriptografi kunci-simetri yang memproses pesan berupa huruf
 > alfabet saja, menggunakan dua teknik dasar: **substitusi** dan **transposisi**
